@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462503091244",
+    "project_id": "mass-26d95",
+    "storage_bucket": "mass-26d95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462503091244:android:64f6dcac1a3061bace0589",
+        "android_client_info": {
+          "package_name": "com.example.mass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvKCWf-fe4fNoZ0REBonhkT0xZ6Io18iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
